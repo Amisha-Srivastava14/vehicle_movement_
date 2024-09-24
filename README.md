@@ -1,4 +1,5 @@
 # vehicle_movement_
+DEPLOYMENT LINK- https://66f2dd8ce2000e05e177c478--glistening-kleicha-7e3a91.netlify.app/
 #Project Overview
 This project is a web application that demonstrates real-time vehicle movement on a map using the Leaflet.js library and OpenStreetMap. The application simulates a vehicle moving along a predefined route, with the user controlling the movement by clicking a "Start" button.
 
