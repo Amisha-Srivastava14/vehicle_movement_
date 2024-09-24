@@ -26,4 +26,4 @@ Clicking the "Start" button triggers the vehicle's movement along the route.
 index.html: Contains the structure of the webpage and includes the map container and the "Start" button.
 style.css: Defines the styling for the map, button, and basic layout.
 app.js: Handles the map initialization, vehicle movement logic, and button functionality.
-sport-car.png: The custom icon used for the vehicle.
+sport-car.png: The custom icon used for the vehicle. OR you can use image icon url directly.
